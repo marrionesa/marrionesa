@@ -59,6 +59,6 @@
 </p>
 
 <h2>📊 GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=marrionesa&show_icons=true&hide_border=true&theme=tokyonight" alt="marrionesa stats" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marrionesa&show_icons=true&hide_border=true&theme=tokyonight" alt="marrionesa stats" /> <img src="https://streak-stats.demolab.com?user=marrionesa&hide_border=true&locale=es&theme=tokyonight" alt="racha de commits" /></p>
 
 <p><a href="https://komarev.com/ghpvc/?username=marrionesa&style=flat-square&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=marrionesa&style=flat-square&color=blueviolet" alt="Profile views"></a></p>
