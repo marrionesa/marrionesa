@@ -98,7 +98,7 @@ I'm a systems developer and sysadmin, building cross-platform tools and systems 
     <tr>
       <td><img src="assets/icons/google.svg" alt="google" width="16" height="16" align="absmiddle"/>&nbsp;<a href="https://github.com/GoogleCloudPlatform"><b>GoogleCloudPlatform</b></a></td>
       <td>MCP — mcp-imagen-go deprecation routing + audit</td>
-      <td><img alt="open" src="https://img.shields.io/badge/PR-Open-F94144?style=flat-square&logo=git&logoColor=white"/></td>
+      <td><img alt="open" src="https://img.shields.io/badge/PR-Open-3FB950?style=flat-square&logo=git&logoColor=white"/></td>
       <td><img alt="stars" src="https://img.shields.io/github/stars/GoogleCloudPlatform/google-cloud-python?style=flat-square&color=blue&label=%20"/></td>
     </tr>
   </tbody>
@@ -143,9 +143,6 @@ I'm a systems developer and sysadmin, building cross-platform tools and systems 
         <img alt="MP5" src="https://img.shields.io/badge/MP5-Adaptive_Video-3FB950?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
       </a>
     </td>
-    <td align="center" width="200">
-     
-    
   </tr>
 </table>
 
