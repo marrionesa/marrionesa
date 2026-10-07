@@ -64,7 +64,6 @@ I'm a systems developer and sysadmin, building cross-platform tools and systems 
 
 <br/>
 
-
 ### Open Source Contributions:
 
 <table>
@@ -78,28 +77,28 @@ I'm a systems developer and sysadmin, building cross-platform tools and systems 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/icons/tauri.svg" alt="tauri" width="16" height="16" align="absmiddle"/>&nbsp;<a href="https://github.com/tauri-apps/tauri"><b>tauri-apps/tauri</b></a></td>
+      <td><img src="assets/icons/tauri.svg" alt="tauri" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/tauri-apps/tauri"><b>tauri-apps/tauri</b></a></td>
       <td><a href="https://github.com/tauri-apps/tauri/pull/16057">#16057</a> — test soundness after Rust edition 2024</td>
       <td><img alt="merged" src="https://img.shields.io/badge/PR-Merged-8957E5?style=flat-square&logo=git&logoColor=white"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&color=blue&label=%20"/></td>
+      <td><img alt="stars" src="https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&color=blue&label=%E2%AD%90"/></td>
     </tr>
     <tr>
-      <td><img src="assets/icons/tauri.svg" alt="tauri" width="16" height="16" align="absmiddle"/>&nbsp;<a href="https://github.com/tauri-apps/tao"><b>tauri-apps/tao</b></a></td>
+      <td><img src="assets/icons/tauri.svg" alt="tauri" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/tauri-apps/tao"><b>tauri-apps/tao</b></a></td>
       <td><a href="https://github.com/tauri-apps/tao/pull/1351">#1351</a> — fix(linux) raw_display_handle_rwh_06 UB</td>
-      <td><a href="https://github.com/tauri-apps/tao/releases"><img alt="merged" src="https://img.shields.io/badge/Released-v0.37.2-8957E5?style=flat-square&logo=git&logoColor=white"/></a></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/tauri-apps/tao?style=flat-square&color=blue&label=%20"/></td>
+      <td><a href="https://github.com/tauri-apps/tao/releases"><img alt="released" src="https://img.shields.io/badge/Released-v0.37.2-8957E5?style=flat-square&logo=git&logoColor=white"/></a></td>
+      <td><img alt="stars" src="https://img.shields.io/github/stars/tauri-apps/tao?style=flat-square&color=blue&label=%E2%AD%90"/></td>
     </tr>
     <tr>
-      <td><img src="assets/icons/microsoft.svg" alt="microsoft" width="16" height="16" align="absmiddle"/>&nbsp;<a href="https://github.com/microsoft/tgrep"><b>microsoft/tgrep</b></a></td>
+      <td><img src="assets/icons/microsoft.svg" alt="microsoft" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/microsoft/tgrep"><b>microsoft/tgrep</b></a></td>
       <td><a href="https://github.com/microsoft/tgrep/pull/178">#178</a> — Error::source() impl + 13 tests</td>
       <td><img alt="merged" src="https://img.shields.io/badge/PR-Merged-8957E5?style=flat-square&logo=git&logoColor=white"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/microsoft/tgrep?style=flat-square&color=blue&label=%20"/></td>
+      <td><img alt="stars" src="https://img.shields.io/github/stars/microsoft/tgrep?style=flat-square&color=blue&label=%E2%AD%90"/></td>
     </tr>
     <tr>
-      <td><img src="assets/icons/google.svg" alt="google" width="16" height="16" align="absmiddle"/>&nbsp;<a href="https://github.com/GoogleCloudPlatform"><b>GoogleCloudPlatform</b></a></td>
+      <td><img src="assets/icons/google.svg" alt="google" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/GoogleCloudPlatform"><b>GoogleCloudPlatform</b></a></td>
       <td>MCP — mcp-imagen-go deprecation routing + audit</td>
-      <td><img alt="open" src="https://img.shields.io/badge/PR-Open-3FB950?style=flat-square&logo=git&logoColor=white"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/GoogleCloudPlatform/google-cloud-python?style=flat-square&color=blue&label=%20"/></td>
+      <td><img alt="open" src="https://img.shields.io/badge/PR-Open-FFC857?style=flat-square&logo=git&logoColor=black"/></td>
+      <td><img alt="stars" src="https://img.shields.io/github/stars/GoogleCloudPlatform/google-cloud-python?style=flat-square&color=blue&label=%E2%AD%90"/></td>
     </tr>
   </tbody>
 </table>
