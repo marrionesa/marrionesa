@@ -58,7 +58,7 @@ I'm a systems developer and sysadmin, building cross-platform tools and systems 
 <br/>
 
 
-### GitHub Stats:
+### GitHub:
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=marrionesa&show_icons=true&hide_border=true&theme=tokyonight" width="342px" alt="marrionesa stats"/> <img src="https://streak-stats.demolab.com?user=marrionesa&hide_border=true&locale=es&theme=tokyonight" width="342px" alt="racha de commits"/>
 
