@@ -1,201 +1,294 @@
-## Hey, I'm Mario
-<a href='https://marioramos.me'><img align='left' alt='website' src='https://img.shields.io/badge/website-marioramos.me-4E69C8?style=flat-square&logo=Firefox&logoColor=white'/></a>
+<div align="center">
 
-<a href='https://crates.io/users/marrionesa'><img align='left' alt='crates.io' src='https://img.shields.io/badge/crates.io-marrionesa-F94144?style=flat-square&logo=rust&logoColor=white'/></a>
-<a href='https://www.npmjs.com/~marrionesa'><img align='left' alt='npm' src='https://img.shields.io/badge/npm-marrionesa-CB3837?style=flat-square&logo=npm&logoColor=white'/></a>
-<br>
-<br clear="all"/>
-I'm a systems developer and sysadmin, building cross-platform tools and systems software under the **aNima** brand. Rust + Tauri specialist with contributions merged in `tauri-apps` and `microsoft`. Shipping honest software from Spain, with tests.
-<br/>Ask me about rust, tauri, systems or backend, 
-   <br/>I am happy to help
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2021,35:3C3836,70:FE8019,100:FABD2F&height=210&section=header&text=MARIO&fontSize=48&fontColor=FBF1C7&fontAlignY=38&desc=SYSTEMS%20ENGINEERING%20%E2%80%A2%20OPEN%20SOURCE%20%E2%80%A2%20SOFTWARE%20DEVELOPMENT&descAlignY=62&descSize=13" width="100%" alt="Mario a - Systems Engineering, Open Source and Software Development" />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260px"/>
-  
-### More About Me:
+<a href="https://marioramos.me"><img src="https://img.shields.io/badge/Portfolio-marioramos.me-FABD2F?style=for-the-badge&logo=firefox&logoColor=282828" alt="Portfolio" /></a>
+<a href="https://github.com/marrionesa"><img src="https://img.shields.io/badge/GitHub-@marrionesa-282828?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/marrionesa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hola@marioramos.es"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 🤝 &nbsp; I'm looking to [collaborate](mailito:hola@marioramos.es)
-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/github-black.svg"><img alt="github" width="16" height="16" align="absmiddle" src="assets/icons/github.svg"></picture>&nbsp; Most of my projects are available on [Github](https://github.com/marrionesa?tab=repositories)
-- <img src="assets/icons/crates.png" alt="crates.io" width="16" height="16" align="absmiddle"/>&nbsp; Most of my plugins are available on [crates.io](https://crates.io/users/marrionesa) 
-- 📫 &nbsp; Feel free to ping me on [marioramos.me](https://marioramos.me)
-- <img src="assets/icons/npm.svg" alt="npm" width="16" height="16" align="absmiddle"/>&nbsp; Checkout my [npm packages](https://www.npmjs.com/~marrionesa)
+ 
 
-- 📚 &nbsp; El mejor código sale después de medianoche  
+</div>
+
+---
+
+## About me
+
+I'm **Mario Ramos**, a systems developer and open-source contributor from Spain.
+
+I design and build software across the stack, from native system integrations and desktop applications to developer tools, automation and infrastructure. My main engineering focus is **Rust, Tauri 2, TypeScript and Linux**.
+
+I enjoy solving problems close to the operating system: native APIs, hardware interfaces, process management, multimedia, cross-platform behaviour, testing and release engineering. I also contribute upstream to established open-source projects, including **Tauri, Tao and Microsoft tgrep**.
+
+- <img src="https://cdn.simpleicons.org/rust/CE412B" width="16" /> **Systems programming:** Rust, native integrations and platform APIs.
+- <img src="https://cdn.simpleicons.org/tauri/FFC131" width="16" /> **Desktop development:** Tauri 2, TypeScript and cross-platform applications.
+- <img src="https://cdn.simpleicons.org/linux/FCC624" width="16" /> **Linux engineering:** desktop environments, bootable systems, automation and infrastructure.
+- <img src="https://cdn.simpleicons.org/github/FFFFFF" width="16" /> **Open source:** upstream bug fixes, features, tests, documentation and release contributions.
+
+<div align="center">
+
+### Current focus
+
+<img src="https://img.shields.io/badge/Rust-Systems%20Programming-CE412B?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-Desktop%20%26%20Mobile-FFC131?style=flat-square&logo=tauri&logoColor=282828" />
+<img src="https://img.shields.io/badge/TypeScript-Application%20Architecture-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Platform%20Engineering-FCC624?style=flat-square&logo=linux&logoColor=282828" />
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" /> Open-source contributions
+
+I contribute to upstream projects through bug investigation, implementation, regression tests, documentation and maintenance. My merged work spans the Tauri ecosystem, Microsoft and GoogleCloudPlatform projects, alongside contributions across my own open-source repositories.
+
+### Upstream contributions
+
+<div align="center">
+
+| Project | Pull request | Contribution | Result |
+|:--|:--:|:--|:--:|
+| <img src="https://cdn.simpleicons.org/tauri/FFC131" width="16" /> **Tauri** | [#16057](https://github.com/tauri-apps/tauri/pull/16057) | Guard environment-variable modifications in tests with `serial_test` | <img src="https://img.shields.io/badge/MERGED-8957E5?style=flat-square&logo=github&logoColor=white" /> |
+| <img src="https://cdn.simpleicons.org/tauri/FFC131" width="16" /> **Tauri** | [#16280](https://github.com/tauri-apps/tauri/pull/16280) | Suggest the closest permission identifier when an unknown ACL permission is encountered | <img src="https://img.shields.io/badge/MERGED-8957E5?style=flat-square&logo=github&logoColor=white" /> |
+| <img src="https://cdn.simpleicons.org/tauri/FFC131" width="16" /> **Tao** | [#1351](https://github.com/tauri-apps/tao/pull/1351) | Handle failed Linux display initialisation as `Unavailable` in raw display handles | <img src="https://img.shields.io/badge/MERGED-8957E5?style=flat-square&logo=github&logoColor=white" /> |
+| <img src="https://github.com/microsoft.png" width="16" /> **Microsoft tgrep** | [#178](https://github.com/microsoft/tgrep/pull/178) | Implement `Error::source()` and add 13 tests for the error module | <img src="https://img.shields.io/badge/MERGED-8957E5?style=flat-square&logo=github&logoColor=white" /> |
+| <img src="https://cdn.simpleicons.org/google/4285F4" width="16" /> **Google GenMedia Creative Studio** | [#1912](https://github.com/GoogleCloudPlatform/genmedia-creative-studio/pull/1912) | Add a deprecation banner and audit deprecated `mcp-imagen-go` references | <img src="https://img.shields.io/badge/MERGED-8957E5?style=flat-square&logo=github&logoColor=white" /> |
+| <img src="https://cdn.simpleicons.org/google/4285F4" width="16" /> **Google GenMedia Creative Studio** | [#1915](https://github.com/GoogleCloudPlatform/genmedia-creative-studio/pull/1915) | Route users away from deprecated `mcp-imagen-go` | <img src="https://img.shields.io/badge/MERGED-8957E5?style=flat-square&logo=github&logoColor=white" /> |
+
+</div>
+
+### Tauri ecosystem - release contributions
+
+<div align="center">
+
+<a href="https://github.com/tauri-apps/tauri/releases"><img src="https://img.shields.io/badge/Tauri-Contributor%20in%20releases-FFC131?style=for-the-badge&logo=tauri&logoColor=282828" alt="Tauri release contributor" /></a>
+<a href="https://github.com/tauri-apps/tao/releases"><img src="https://img.shields.io/badge/Tao-Contributor%20in%20releases-24C8DB?style=for-the-badge&logo=tauri&logoColor=282828" alt="Tao release contributor" /></a>
+
+</div>
+
+My contributions are part of the upstream Tauri and Tao projects and their release history. This goes beyond maintaining personal repositories: I actively contribute fixes and improvements to software used by the wider ecosystem.
 
 
-<br clear="all"/>
+<div align="center">
 
-### Languages and Tools:
-<a href="https://www.rust-lang.org/" target="_blank"> <img align="left" src="assets/icons/rust.svg" alt="rust" height="42px"/> </a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Amarrionesa+is%3Amerged"><img src="https://img.shields.io/badge/View-all%20merged%20PRs-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="All merged pull requests" /></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Amarrionesa"><img src="https://img.shields.io/badge/View-all%20pull%20requests-6E7781?style=for-the-badge&logo=github&logoColor=white" alt="All pull requests" /></a>
 
-<a href="https://tauri.app/" target="_blank"> <img align="left" src="assets/icons/tauri.svg" alt="tauri" height="42px"/> </a>
+</div>
 
-<a href="https://www.python.org" target="_blank"> <img align="left" src="assets/icons/python.svg" alt="python" height="42px"/> </a>
-
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="assets/icons/nodedotjs.svg" alt="node.js" height="42px"/> </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="assets/icons/typescript.svg" alt="typescript" height="42px"/> </a>
-
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="assets/icons/c.svg" alt="c" height="42px"/> </a>
-
-<a href="https://www.qt.io/" target="_blank"> <img align="left" src="assets/icons/qt.svg" alt="qt" height="42px"/> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/icons/git.svg" alt="git" height="42px"/> </a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img align="left" src="assets/icons/bash.svg" alt="bash" height="42px"/> </a>
-
-<a href="https://www.nginx.com" target="_blank"> <img align="left" src="assets/icons/nginx.svg" alt="nginx" height="42px"/> </a>
-
-<a href="https://systemd.io/" target="_blank"> <img align="left" src="assets/icons/systemd.svg" alt="systemd" height="42px"/> </a>
-
-<a href="https://www.sqlite.org" target="_blank"> <img align="left" src="assets/icons/sqlite.svg" alt="sqlite" height="42px"/> </a>
-
-<a href="https://www.cloudflare.com" target="_blank"> <img align="left" src="assets/icons/cloudflare.svg" alt="cloudflare" height="42px"/> </a>
-
-<a href="https://ffmpeg.org" target="_blank"> <img align="left" src="assets/icons/ffmpeg.svg" alt="ffmpeg" height="42px"/> </a>
-
-<br clear="all"/>
-<br/>
+---
 
 
-### GitHub:
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=marrionesa&show_icons=true&hide_border=true&theme=tokyonight" width="342px" alt="marrionesa stats"/> <img src="https://streak-stats.demolab.com?user=marrionesa&hide_border=true&locale=es&theme=tokyonight" width="342px" alt="racha de commits"/>
 
-<br/>
 
-### Open Source Contributions:
+
+## <img src="https://cdn.simpleicons.org/git/8EC07C" width="27" /> My software
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <a href="https://github.com/marrionesa/animabooter">
+          <img src="./assets/projects/animabooter.png" width="100" alt="AnimaBooter" /><br />
+          <b>AnimaBooter</b>
+        </a>
+        <br /><sub>Bootable media tooling · Rust + Tauri 2</sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/marrionesa/nodedesk">
+          <img src="./assets/projects/nodedesk.png" width="100" alt="NodeDesk" /><br />
+          <b>NodeDesk</b>
+        </a>
+        <br /><sub>Developer tooling · TypeScript monorepo</sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/marrionesa/animacam-os">
+          <img src="https://placehold.co/100x100/0A0A0A/F94144?text=AnimaCAM" width="100" alt="AnimaCAM-OS" /><br />
+          <b>AnimaCAM-OS</b>
+        </a>
+        <br /><sub>iPhone camera and video workflows</sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/marrionesa/animabackup">
+          <img src="./assets/projects/animabackup.svg" width="100" alt="AnimaBackup" /><br />
+          <b>AnimaBackup</b>
+        </a>
+        <br /><sub>Backup tooling · In development</sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/marrionesa/mp5-website">
+          <img src="./assets/projects/mp5.jpeg" width="100" alt="MP5" /><br />
+          <b>MP5</b>
+        </a>
+        <br /><sub>Adaptive video platform</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+
+
+
+
+## <img src="https://cdn.simpleicons.org/rocket/FE8019" width="27" /> Featured projects
+
+<div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th>📦 Repository</th>
-      <th>🔀 PR / Contribution</th>
-      <th>✅ Status</th>
-      <th>⭐ Stars</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="assets/icons/tauri.svg" alt="tauri" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/tauri-apps/tauri"><b>tauri-apps/tauri</b></a></td>
-      <td><a href="https://github.com/tauri-apps/tauri/pull/16057">#16057</a> — fix(tests): guard env var modifications with serial_test</td>
-      <td><img alt="merged" src="https://img.shields.io/badge/PR-Merged-8957E5?style=flat-square&logo=git&logoColor=white"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&color=blue&label=%E2%AD%90"/></td>
-    </tr>
-    <tr>
-      <td><img src="assets/icons/tauri.svg" alt="tauri" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/tauri-apps/tao"><b>tauri-apps/tao</b></a></td>
-      <td><a href="https://github.com/tauri-apps/tao/pull/1351">#1351</a> — fix(linux): report failed display open as Unavailable</td>
-      <td><a href="https://github.com/tauri-apps/tao/releases"><img alt="released" src="https://img.shields.io/badge/Released-v0.37.2-8957E5?style=flat-square&logo=git&logoColor=white"/></a></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/tauri-apps/tao?style=flat-square&color=blue&label=%E2%AD%90"/></td>
-    </tr>
-    <tr>
-      <td><img src="assets/icons/microsoft.svg" alt="microsoft" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/microsoft/tgrep"><b>microsoft/tgrep</b></a></td>
-      <td><a href="https://github.com/microsoft/tgrep/pull/178">#178</a> — Error::source() impl + 13 tests</td>
-      <td><img alt="merged" src="https://img.shields.io/badge/PR-Merged-8957E5?style=flat-square&logo=git&logoColor=white"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/microsoft/tgrep?style=flat-square&color=blue&label=%E2%AD%90"/></td>
-    </tr>
-    <tr>
-      <td><img src="assets/icons/google.svg" alt="google" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/GoogleCloudPlatform/genmedia-creative-studio"><b>GoogleCloudPlatform/genmedia-creative-studio</b></a></td>
-      <td><a href="https://github.com/GoogleCloudPlatform/genmedia-creative-studio/pull/1915">#1915</a> — route users away from deprecated mcp-imagen-go</td>
-      <td><img alt="open" src="https://img.shields.io/badge/PR-Open-FFC857?style=flat-square&logo=git&logoColor=black"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/GoogleCloudPlatform/genmedia-creative-studio?style=flat-square&color=blue&label=%E2%AD%90"/></td>
-    </tr>
-    <tr>
-      <td><img src="assets/icons/google.svg" alt="google" width="16" height="16" align="middle"/>&nbsp;<a href="https://github.com/GoogleCloudPlatform/genmedia-creative-studio"><b>GoogleCloudPlatform/genmedia-creative-studio</b></a></td>
-      <td><a href="https://github.com/GoogleCloudPlatform/genmedia-creative-studio/pull/1912">#1912</a> — add deprecation banner and DEPRECATION.md audit</td>
-      <td><img alt="open" src="https://img.shields.io/badge/PR-Open-FFC857?style=flat-square&logo=git&logoColor=black"/></td>
-      <td><img alt="stars" src="https://img.shields.io/github/stars/GoogleCloudPlatform/genmedia-creative-studio?style=flat-square&color=blue&label=%E2%AD%90"/></td>
-    </tr>
-  </tbody>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marrionesa/animabooter">🚀 AnimaBooter</a></h3>
+<a href="https://github.com/marrionesa/animabooter"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarrionesa%2Fanimabooter%2Fmain%2Fdocs%2Fscreenshots%2Fbanner-showcase.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="AnimaBooter showcase banner" /></a>
+
+Bootable Linux media tooling and desktop workflows, including OS selection, official ISO downloads and a dedicated CLI.
+
+`Rust` `Tauri 2` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marrionesa/nodedesk">🧩 NodeDesk</a></h3>
+<a href="https://github.com/marrionesa/nodedesk"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmarioramos.me%2Fimages%2Fslider%2Fnodedesk-screen-01.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="NodeDesk screenshot" /></a>
+
+A modular developer-tooling project designed around a desktop workflow and reusable packages.
+
+`TypeScript` `Node.js` `Tauri`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marrionesa/diskmize">📀 DiskMize</a></h3>
+<a href="https://github.com/marrionesa/diskmize"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarrionesa%2Fdiskmize%2Fmain%2Fassets%2Fimages%2FDiskmize_banner.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="DiskMize banner" /></a>
+
+A lightweight desktop tool to explore disk usage. Inspect directories, find large files, and review storage usage through a straightforward graphical interface.
+
+`Python` `Desktop` `GUI`
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marrionesa/tft-anima-assistant">🎙️ TFT Anima Assistant</a></h3>
+<a href="https://github.com/marrionesa/tft-anima-assistant"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarrionesa%2Ftft-anima-assistant%2Fmain%2Fdocs%2Fdemo%2Fdemo-anima-tft-poster.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="TFT Anima Assistant poster" /></a>
+
+Asistente personal de voz y chat que corre entero en tu propia red. Sin nube, sin claves de API, sin telemetría.
+
+`C` `Voice` `Self-hosted`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marrionesa/animabackup">💾 AnimaBackup</a></h3>
+<a href="https://github.com/marrionesa/animabackup"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmarioramos.me%2Fimages%2Fslider%2Fanima-backup-verify.png&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="AnimaBackup screenshot" /></a>
+
+Backup tooling and workflows in the Anima software ecosystem.
+
+`Rust` `Systems`
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marrionesa/mp5-website">🎬 MP5</a></h3>
+<a href="https://github.com/marrionesa/mp5-website"><img src="assets/projects/mp5-ban.png?" alt="MP5 repository" /></a>
+
+An adaptive video platform and web-based multimedia project.
+
+`Web` `Video` `TypeScript`
+
+</td>
+</tr>
 </table>
 
-<br/>
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/tauri/FFC131" width="27" /> Tauri plugins & ecosystem
+
+I build native plugins and reusable components for **Tauri v2**, exposing operating-system capabilities to cross-platform desktop and mobile applications.
+
+<div align="center">
+
+| Plugin / project | Description | Stack |
+|:--|:--|:--:|
+| [tauri-plugin-power-monitor](https://github.com/marrionesa/tauri-plugin-power-monitor) | Battery state, power source and system sleep/wake events across Windows, macOS and Linux | <img src="https://cdn.simpleicons.org/rust/CE412B" width="20" /> |
+| [tauri-plugin-brightness](https://github.com/marrionesa/tauri-plugin-brightness) | Display brightness control through DDC/CI, `ddcutil` and Linux backlight interfaces | <img src="https://cdn.simpleicons.org/rust/CE412B" width="20" /> |
+| [tauri-plugin-ad2mob](https://github.com/marrionesa/tauri-plugin-ad2mob) | Google AdMob integration for Tauri v2 on Android and iOS | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="20" /> |
+| [tauri-plugins](https://github.com/marrionesa/tauri-plugins) | Six standalone plugins: beep, hash, hostname, mimetype, timezone and UUID | <img src="https://cdn.simpleicons.org/rust/CE412B" width="20" /> |
+| [animacamos-core-public](https://github.com/marrionesa/animacamos-core-public) | Shared camera and video primitives for AnimaCAM applications | <img src="https://cdn.simpleicons.org/rust/CE412B" width="20" /> |
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/stackblitz/1389FD" width="27" /> Tech stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=rust,ts,js,python,c,nodejs,php,bash&theme=dark" alt="Rust, TypeScript, JavaScript, Python, C, Node.js, PHP and Bash" />
+
+### Frameworks & application development
+
+<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,qt,tailwind,vite&theme=dark" alt="Tauri, React, Next.js, Qt, Tailwind and Vite" />
+
+### Systems, infrastructure & databases
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,nginx,mysql,sqlite,cloudflare&theme=dark" alt="Linux, Git, GitHub, NGINX, MySQL, SQLite, Cloudflare and WordPress" />
+
+</div>
 
 
-### My Projects:
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/marrionesa/animabooter">
-        <img src="./assets/projects/animabooter.png" width="100" height="100" alt="AnimaBooter"/><br/><br/>
-        <img alt="AnimaBooter" src="https://img.shields.io/badge/AnimaBooter-Rust_+_Tauri_2-4E69C8?style=for-the-badge&logo=tauri&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/marrionesa/nodedesk">
-        <img src="assets/projects/nodedesk.png" width="100" height="100" alt="NodeDesk"/><br/><br/>
-        <img alt="NodeDesk" src="https://img.shields.io/badge/NodeDesk-TypeScript_Monorepo-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/marrionesa/animacam-os">
-        <img src="https://placehold.co/100x100/0A0A0A/F94144?text=AnimaCAM&font=montserrat" width="100" height="100" alt="AnimaCAM-OS"/><br/><br/>
-        <img alt="AnimaCAM-OS" src="https://img.shields.io/badge/AnimaCAM--OS-iPhone_as_Webcam-F94144?style=for-the-badge&logo=tauri&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/marrionesa/animabackup">
-        <img src="assets/projects/animabackup.svg" width="100" height="100" alt="AnimaBackup"/><br/><br/>
-        <img alt="AnimaBackup" src="https://img.shields.io/badge/AnimaBackup-In_Development-FF9F1C?style=for-the-badge&logo=tauri&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/marrionesa/mp5-website">
-        <img src="assets/projects/mp5.jpeg" width="100" height="100" alt="MP5"/><br/><br/>
-        <img alt="MP5" src="https://img.shields.io/badge/MP5-Adaptive_Video-3FB950?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 
-### Tauri Plugins:
 
-<table>
-  <thead>
-    <tr>
-      <th>🔌 Plugin</th>
-      <th>📝 Description</th>
-      <th>⚙️ Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/marrionesa/tauri-plugin-power-monitor" target="_blank"><img alt="power-monitor" src="https://img.shields.io/badge/power--monitor-Battery_+_Sleep_Events-FFC857?style=for-the-badge&logo=tauri&logoColor=black"/></a></td>
-      <td>Battery, power source and system sleep/wake events for Tauri v2 — Windows, macOS and Linux</td>
-      <td><code>Rust</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/marrionesa/tauri-plugin-brightness" target="_blank"><img alt="brightness" src="https://img.shields.io/badge/brightness-DDC/CI_Display-4E9BED?style=for-the-badge&logo=tauri&logoColor=white"/></a></td>
-      <td>Control display brightness from a Tauri app: DDC/CI, ddcutil and Linux kernel backlight</td>
-      <td><code>Rust</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/marrionesa/tauri-plugin-ad2mob" target="_blank"><img alt="ad2mob" src="https://img.shields.io/badge/ad2mob-Google_AdMob-4287F5?style=for-the-badge&logo=googleads&logoColor=white"/></a></td>
-      <td>Google AdMob (Mobile Ads) for Tauri v2 apps on Android and iOS</td>
-      <td><code>TypeScript</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/marrionesa/tauri-plugins" target="_blank"><img alt="tauri-plugins" src="https://img.shields.io/badge/tauri--plugins-beep_·_hash_·_hostname_·_mimetype_·_timezone_·_uuid-CBCBCB?style=for-the-badge&logo=tauri&logoColor=black"/></a></td>
-      <td>Six standalone Tauri v2 plugins — beep, hash, hostname, mimetype, timezone and uuid</td>
-      <td><code>Rust</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/marrionesa/animacamos-core-public" target="_blank"><img alt="animacamos-core" src="https://img.shields.io/badge/animacamos--core-Camera_+_Video_Primitives-FF6B6B?style=for-the-badge&logo=tauri&logoColor=white"/></a></td>
-      <td>Platform-agnostic core primitives for animaCAM-OS camera and video applications</td>
-      <td><code>Rust</code></td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<br/>
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" /> GitHub Analytics
 
 
-### Contact:
 
-<a href='https://github.com/marrionesa'><picture><source media='(prefers-color-scheme: dark)' srcset='assets/icons/github.svg'><source media='(prefers-color-scheme: light)' srcset='assets/icons/github.svg'><img alt='github logo' src='assets/icons/github.svg' height='40'></picture></a>&nbsp; &nbsp;<a href='https://www.linkedin.com/in/marrionesa/'><picture><source media='(prefers-color-scheme: dark)' srcset='assets/icons/mario-web.webp'><source media='(prefers-color-scheme: light)' srcset='assets/icons/firefox.svg'><img alt='website logo' src='assets/icons/mail-mario.svg' height='40'></picture> <picture><source media='(prefers-color-scheme: dark)' srcset='assets/icons/linkedin.svg'><source media='(prefers-color-scheme: light)' srcset='assets/icons/linkedin.svg'><img alt='linkedin logo' src='assets/icons/linkedin.svg' height='40'></picture></a>&nbsp; &nbsp;<a href='mailto:fitypaldy@gmail.com'></a>
+<div align="center">
+
+![marrionesa's GitHub Stats](https://readme-stats-github.pages.dev/api?username=marrionesa&theme=dark) ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=marrionesa&theme=dark)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marrionesa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
+
+
+</div>
+
+---
+
+
+## <img src="https://cdn.simpleicons.org/handshake/FE8019" width="27" /> Find me online
+
+<div align="center">
+  <a href="https://github.com/marrionesa"><img src="https://img.shields.io/badge/GitHub-marrionesa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/marrionesa/"><img src="https://img.shields.io/badge/LinkedIn-marrionesa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://marioramos.me"><img src="https://img.shields.io/badge/Website-marioramos.me-4E69C8?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="https://crates.io/users/marrionesa"><img src="https://img.shields.io/badge/crates.io-marrionesa-F94144?style=flat-square&logo=rust&logoColor=white" alt="crates.io" /></a>
+  <a href="https://www.npmjs.com/~marrionesa"><img src="https://img.shields.io/badge/npm-marrionesa-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+
+</div>
+
+<div align="center">
+  <sub>Engineering useful software, contributing upstream and learning by shipping.</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,45:FE8019,100:FABD2F&height=100&section=footer" width="100%" alt="" />
+</div>
+
+ 
+</div>
