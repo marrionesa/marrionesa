@@ -158,82 +158,6 @@ My contributions are part of the upstream Tauri and Tao projects and their relea
 
 
 
-## <img src="https://cdn.simpleicons.org/rocket/FE8019" width="27" /> Featured projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/marrionesa/animabooter">🚀 AnimaBooter</a></h3>
-<a href="https://github.com/marrionesa/animabooter"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarrionesa%2Fanimabooter%2Fmain%2Fdocs%2Fscreenshots%2Fbanner-showcase.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="AnimaBooter showcase banner" /></a>
-
-Bootable Linux media tooling and desktop workflows, including OS selection, official ISO downloads and a dedicated CLI.
-
-`Rust` `Tauri 2` `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/marrionesa/nodedesk">🧩 NodeDesk</a></h3>
-<a href="https://github.com/marrionesa/nodedesk"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmarioramos.me%2Fimages%2Fslider%2Fnodedesk-screen-01.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="NodeDesk screenshot" /></a>
-
-A modular developer-tooling project designed around a desktop workflow and reusable packages.
-
-`TypeScript` `Node.js` `Tauri`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/marrionesa/diskmize">📀 DiskMize</a></h3>
-<a href="https://github.com/marrionesa/diskmize"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarrionesa%2Fdiskmize%2Fmain%2Fassets%2Fimages%2FDiskmize_banner.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="DiskMize banner" /></a>
-
-A lightweight desktop tool to explore disk usage. Inspect directories, find large files, and review storage usage through a straightforward graphical interface.
-
-`Python` `Desktop` `GUI`
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/marrionesa/tft-anima-assistant">🎙️ TFT Anima Assistant</a></h3>
-<a href="https://github.com/marrionesa/tft-anima-assistant"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarrionesa%2Ftft-anima-assistant%2Fmain%2Fdocs%2Fdemo%2Fdemo-anima-tft-poster.jpg&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="TFT Anima Assistant poster" /></a>
-
-Asistente personal de voz y chat que corre entero en tu propia red. Sin nube, sin claves de API, sin telemetría.
-
-`C` `Voice` `Self-hosted`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/marrionesa/animabackup">💾 AnimaBackup</a></h3>
-<a href="https://github.com/marrionesa/animabackup"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmarioramos.me%2Fimages%2Fslider%2Fanima-backup-verify.png&w=880&h=495&fit=cover&output=jpg&q=90" width="100%" alt="AnimaBackup screenshot" /></a>
-
-Backup tooling and workflows in the Anima software ecosystem.
-
-`Rust` `Systems`
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/marrionesa/mp5-website">🎬 MP5</a></h3>
-<a href="https://github.com/marrionesa/mp5-website"><img src="assets/projects/mp5-ban.png?" alt="MP5 repository" /></a>
-
-An adaptive video platform and web-based multimedia project.
-
-`Web` `Video` `TypeScript`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## <img src="https://cdn.simpleicons.org/tauri/FFC131" width="27" /> Tauri plugins & ecosystem
 
@@ -251,7 +175,7 @@ I build native plugins and reusable components for **Tauri v2**, exposing operat
 
 </div>
 
----
+ 
 
 ## <img src="https://cdn.simpleicons.org/stackblitz/1389FD" width="27" /> Tech stack
 
