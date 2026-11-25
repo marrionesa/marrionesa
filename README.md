@@ -39,6 +39,28 @@ I enjoy solving problems close to the operating system: native APIs, hardware in
 
 ---
 
+## GitHub Analytics
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://en-git.onrender.com/widget/marrionesa?type=trophy&theme=dark&accent=%23ffa348&success=%233fb950&purple=%23ffa348" alt="GitHub Trophies" />
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://en-git.onrender.com/widget/marrionesa?type=full&theme=dark&accent=%23ffa348&success=%233fb950&purple=%23ffa348" alt="GitHub Overview" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://en-git.onrender.com/widget/marrionesa?type=score&theme=dark&accent=%23ffa348&success=%233fb950&purple=%23ffa348" alt="GitHub Score" />
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://en-git.onrender.com/widget/marrionesa?type=skills&theme=dark&accent=%2358a6ff&success=%233fb950&purple=%23a855f7" alt="GitHub Skills" />
+    </td>
+  </tr>
+</table>
+
+
 ## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" /> Open-source contributions
 
 I contribute to upstream projects through bug investigation, implementation, regression tests, documentation and maintenance. My merged work spans the Tauri ecosystem, Microsoft and GoogleCloudPlatform projects, alongside contributions across my own open-source repositories.
@@ -248,27 +270,6 @@ I build native plugins and reusable components for **Tauri v2**, exposing operat
 <img src="https://skillicons.dev/icons?i=linux,git,github,nginx,mysql,sqlite,cloudflare&theme=dark" alt="Linux, Git, GitHub, NGINX, MySQL, SQLite, Cloudflare and WordPress" />
 
 </div>
-
-
-
-
-
----
-
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" /> GitHub Analytics
-
-
-
-<div align="center">
-
-![marrionesa's GitHub Stats](https://readme-stats-github.pages.dev/api?username=marrionesa&theme=dark) ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=marrionesa&theme=dark)
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marrionesa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
-
-
-</div>
-
----
 
 
 ## <img src="https://cdn.simpleicons.org/handshake/FE8019" width="27" /> Find me online
